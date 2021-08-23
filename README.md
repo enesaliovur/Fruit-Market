@@ -1,6 +1,7 @@
 # Fruit-Market
 React Native ile tasarım yeteneğimi geliştirmek amacıyla yaptığım örnek bir uygulama.
 Tasarımlar henüz tamamlanmamıştır!
+
 ![screenshot-2021-08-23_10 06 52 727](https://user-images.githubusercontent.com/61868498/130405525-618be6b3-9958-4dac-a818-1f1161a01528.png)
 ![screenshot-2021-08-23_10 09 37 169](https://user-images.githubusercontent.com/61868498/130405546-2772fe77-c4ce-49fa-9a2a-f557270aead3.png)
 
